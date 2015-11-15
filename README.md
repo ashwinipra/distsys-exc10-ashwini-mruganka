@@ -34,7 +34,7 @@ The program reads the input file line by line. Then it creates a list of feature
 ```
 print "LongValueSum:" + " Bernie Sanders" + ": " + classifier.classify(d) + "\t" + "1"
 ```
-
+The screenshot is included in the output folder.
 The outpus is as follows.
 ```
 Ben Carson: neg	77291
